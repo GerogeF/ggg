@@ -1,7 +1,7 @@
 # go_tutorial
 A golang basic tutorial.
 一套Go语言基础教程。
-#  
+#  AAA
 # 我们在b中做了一个缸盖
 ## 视频地址
 
